@@ -3,3 +3,5 @@
 στο υπόλοιπο του ελλαδικού χώρου. Για πληροφορίες σχετικά με την παραγωγή των διορθωμένων
 δεδομένων OSM, παρακαλώ δείτε το "Wiki Page" του έργου
 "OSM-Street-Network-Corrections-Attica" [(Attica Wiki Page)](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica/wiki).
+
+[Link to Greece Data Folder](https://www.dropbox.com/sh/zuirfdyw40qjmaa/AADnVgnV5dkfuyRs9ugll5s1a?dl=0)
