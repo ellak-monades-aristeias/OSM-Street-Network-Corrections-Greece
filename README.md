@@ -4,4 +4,4 @@
 δεδομένων OSM, παρακαλώ δείτε το "Wiki Page" του έργου
 "OSM-Street-Network-Corrections-Attica" [(Attica Wiki Page)](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica/wiki).
 
-[Link to Greece Data Folder](https://www.dropbox.com/sh/zuirfdyw40qjmaa/AADnVgnV5dkfuyRs9ugll5s1a?dl=0)
+Για να κατεβάσετε αρχεία του έργου: [Link to Greece Data Folder](https://www.dropbox.com/sh/zuirfdyw40qjmaa/AADnVgnV5dkfuyRs9ugll5s1a?dl=0)
