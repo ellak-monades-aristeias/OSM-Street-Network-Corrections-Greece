@@ -8,3 +8,8 @@
 "OSM-Street-Network-Corrections-Attica"](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica/wiki).
 
 Μπορείτε να [κατεβάσετε από εδώ τα παραδοτέα αρχεία](https://www.dropbox.com/sh/zuirfdyw40qjmaa/AADnVgnV5dkfuyRs9ugll5s1a?dl=0) του έργου.
+
+**Το υλικό του έργου αυτού διατίθεται υπό τις Άδειες:**
+- CC-BY-SA 4.0: Αρχεία διαδικασιών, πινάκων, κειμένων κλπ.
+- EUPL 1.1: Scripts παραμετροποίησης
+- ODbL 1.0: Χαρτογραφικά δεδομένα (shapefiles) από OSM (πρωτότυπα) & διορθωμένα παράγωγα αυτών
