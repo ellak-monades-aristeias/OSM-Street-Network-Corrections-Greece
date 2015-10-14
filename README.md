@@ -7,7 +7,7 @@
 Για πληροφορίες σχετικά με τη διαδικασία παραγωγής των διορθωμένων δεδομένων OSM, παρακαλώ δείτε το [Wiki Page του έργου
 "OSM-Street-Network-Corrections-Attica"](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica/wiki).
 
-Μπορείτε να [κατεβάσετε και από Dropbox τα παραδοτέα αρχεία](https://www.dropbox.com/sh/zuirfdyw40qjmaa/AADnVgnV5dkfuyRs9ugll5s1a?dl=0) του έργου.
+Μπορείτε να [κατεβάσετε και από Dropbox τα παραδοτέα αρχεία](https://www.dropbox.com/sh/zuirfdyw40qjmaa/AADnVgnV5dkfuyRs9ugll5s1a?dl=0) του έργου. _Ορισμένα αρχεία λόγω του μεγέθους τους δεν στάθηκε δυνατόν να ανέβουν στο repository του έργου._
 
 **Το υλικό του έργου αυτού διατίθεται υπό τις Άδειες:**
 - CC-BY-SA 4.0: Αρχεία διαδικασιών, πινάκων, κειμένων κλπ.
