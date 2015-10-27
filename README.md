@@ -25,6 +25,8 @@
 
 Τα παραπάνω αρχεία βρίσκονται στο archive του Μέρους Α' (OSM-Street-Network-Corrections-Attica): _OSM_Street_Network_Corrections_Reports.7z_
 
+Μπορείτε να καταχωρείτε ως [issues](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Greece/issues) όποιες βελτιώσεις, δυσλειτουργίες, προτάσεις κλπ. έχετε εντοπίσει σχετικά με το έργο αυτό.
+
 **Παραδοτέα**
 
 Τα παραδοτέα αρχεία του έργου βρίσκονται στους εξής συνδέσμους:
