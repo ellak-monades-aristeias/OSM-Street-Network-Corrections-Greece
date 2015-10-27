@@ -52,7 +52,7 @@
 
 Μπορείτε να [κατεβάσετε και από Dropbox τα παραδοτέα αρχεία](https://www.dropbox.com/sh/zuirfdyw40qjmaa/AADnVgnV5dkfuyRs9ugll5s1a?dl=0) του έργου. _Ορισμένα αρχεία λόγω του μεγέθους τους δεν στάθηκε δυνατόν να ανέβουν στο αποθετήριο του έργου._
 
-Δείτε περισσότερες λεπτομέρειες για τα Παραδοτέα [εδώ](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Greece/wiki/Deliverables).
+Δείτε εδώ αναλυτικότερες [πληροφορίες για τα Παραδοτέα](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Greece/wiki/Deliverables).
 
 **Το υλικό του έργου αυτού διατίθεται υπό τις Άδειες:**
 - CC-BY-SA 4.0: Αρχεία διαδικασιών, πινάκων, κειμένων κλπ.
