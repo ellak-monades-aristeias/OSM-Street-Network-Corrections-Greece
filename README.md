@@ -19,6 +19,12 @@
 Για πληροφορίες σχετικά με τη διαδικασία παραγωγής των διορθωμένων δεδομένων OSM, παρακαλώ δείτε το [Wiki Page του έργου
 "OSM-Street-Network-Corrections-Attica"](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica/wiki).
 
+Τεκμηρίωση για τη διαδικασία παρέχεται στα pdf αρχεία:
+* **Διαδικασία_ Διορθώσεων_ OSM_QGIS.pdf**: Πλήρης καταγραφή διαδικασίας & εργασιών για developers και χρήστες που ενδιαφέρονται να την εφαρμόσουν, τροποποιήσουν, επεκτείνουν κλπ.
+* **Διαδικασία_ Διορθώσεων_ OSM_Simple.pdf**: Συνοπτικές οδηγίες για απλούς χρήστες.
+
+Τα παραπάνω αρχεία βρίσκονται στο archive του Μέρους Α' (OSM-Street-Network-Corrections-Attica): _OSM_Street_Network_Corrections_Reports.7z_
+
 **Παραδοτέα**
 
 Τα παραδοτέα αρχεία του έργου βρίσκονται στους εξής συνδέσμους:
