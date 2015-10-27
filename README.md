@@ -23,7 +23,7 @@
 * **Διαδικασία_ Διορθώσεων_ OSM_QGIS.pdf**: Πλήρης καταγραφή διαδικασίας & εργασιών για developers και χρήστες που ενδιαφέρονται να την εφαρμόσουν, τροποποιήσουν, επεκτείνουν κλπ.
 * **Διαδικασία_ Διορθώσεων_ OSM_Simple.pdf**: Συνοπτικές οδηγίες για απλούς χρήστες.
 
-Τα παραπάνω αρχεία βρίσκονται στο archive του Μέρους Α' (OSM-Street-Network-Corrections-Attica): _OSM_Street_Network_Corrections_Reports.7z_
+Τα παραπάνω αρχεία βρίσκονται στο archive του Μέρους Α' (OSM-Street-Network-Corrections-Attica): [_OSM_Street_Network_Corrections_Reports.7z_](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica/blob/master/OSM_Street_Network_Corrections_Reports.7z)
 
 Μπορείτε να καταχωρείτε ως [issues](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Greece/issues) όποιες βελτιώσεις, δυσλειτουργίες, προτάσεις κλπ. έχετε εντοπίσει σχετικά με το έργο αυτό.
 
