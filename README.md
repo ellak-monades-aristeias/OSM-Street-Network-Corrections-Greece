@@ -14,7 +14,7 @@
 
 Υπάρχουν πολλά ακόμη που μπορούν να γίνουν ώστε να καταστεί ένα οδικό δίκτυο ακόμη πιο αξιοποιήσιμο από εφαρμογές GIS (όπως λεπτομερέστερη κατηγοριοποίηση των τόξων του δικτύου, εισαγωγή ειδικών περιορισμών κίνησης, τυποποίηση αναγραφών ονομασιών οδών κ.α.), εντούτοις σκοπός του παρόντος έργου είναι η αντιμετώπιση των δύο κυριότερων αδυναμιών που προαναφέρθηκαν.
 
-Για περισσότερες πληροφορίες, παρακαλώ δείτε το [Wiki Page](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Greece/wiki).
+Για περισσότερες πληροφορίες, παρακαλώ δείτε το [Wiki Page](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Greece/wiki). Αν θέλετε, παρακολουθήστε το [προωθητικό βίντεο](https://www.youtube.com/watch?v=F8HNpRvpiGg) του έργου.
 
 Για πληροφορίες σχετικά με τη διαδικασία παραγωγής των διορθωμένων δεδομένων OSM, παρακαλώ δείτε το [Wiki Page του έργου
 "OSM-Street-Network-Corrections-Attica"](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica/wiki).
