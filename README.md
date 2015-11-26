@@ -62,3 +62,18 @@
 * **Διαδικασία_Διορθώσεων_OSM_Simple.pdf**: Συνοπτικές οδηγίες για απλούς χρήστες.
 
 Τα παραπάνω αρχεία βρίσκονται στο archive του Μέρους Α' (OSM-Street-Network-Corrections-Attica): [_OSM_Street_Network_Corrections_Reports.7z_](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica/blob/master/OSM_Street_Network_Corrections_Reports.7z)
+
+**Overview**
+
+The OpenStreetMap Project offers thorough street network data that can serve multiple needs. The detail of the data as well as its constant updating by a vast community of users provide a very good background for applications concerning street networks.
+
+However, this data in its raw form can't be used directly by a number of GIS applications, like navigation applications, shortest path algorithms etc., because of some inherent problems, such as:
+
+1. Absence of topological nodes in most of the street junctions.
+2. Inconsistencies and discontinuities of the street network classification.
+
+The aim of this project is to rectify these problems, in order to make the OSM street network more useful for GIS applications, while making the least possible manual edits. To this end a special methodology was developed, supported by customization scripts, within the environment of free open-source QGIS software.
+
+The deliverables of this project can also be [downloaded from Dropbox](https://www.dropbox.com/sh/zuirfdyw40qjmaa/AADnVgnV5dkfuyRs9ugll5s1a?dl=0). _Some files could not be uploaded to the project's repository due to their size._
+
+You can also view the first part of this project ([OSM-Street-Network-Corrections-Attica](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica)), which is extended to the whole of Greece by the present project.
