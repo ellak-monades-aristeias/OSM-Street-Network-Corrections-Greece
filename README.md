@@ -76,4 +76,4 @@ The aim of this project is to rectify these problems, in order to make the OSM s
 
 The deliverables of this project can also be [downloaded from Dropbox](https://www.dropbox.com/sh/zuirfdyw40qjmaa/AADnVgnV5dkfuyRs9ugll5s1a?dl=0). _Some files could not be uploaded to the project's repository due to their size._
 
-You can also view the first part of this project ([OSM-Street-Network-Corrections-Attica](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica)), which is extended to the whole of Greece by the present project.
+You can also view the first part of this project ([OSM-Street-Network-Corrections-Attica](https://github.com/ellak-monades-aristeias/OSM-Street-Network-Corrections-Attica)), to which the present project is an extension to the whole of Greece.
